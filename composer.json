@@ -1,6 +1,6 @@
 {
-    "name": "folkevil/Munee",
-    "description": "Standalone PHP 5.3 Asset Optimisation & Manipulation - On-The-Fly Image Resizing, On-the-fly LESS, SCSS, CoffeeScript Compiling, CSS & JavaScript Combining/Minifying, and Smart Client Side and Server Side Caching",
+    "name": "folkevil/munee",
+    "description": "Standalone PHP Asset Optimisation & Manipulation - On-The-Fly Image Resizing, On-the-fly LESS, SCSS, CoffeeScript Compiling, CSS & JavaScript Combining/Minifying, and Smart Client Side and Server Side Caching",
     "keywords": ["php","less","scss","coffeescript","cache","asset optimisation","asset optimization","asset management","css","javascript","lessphp","scssphp","image manipulation"],
     "homepage": "http://mun.ee",
     "license": "MIT",
